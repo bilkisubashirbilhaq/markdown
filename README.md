@@ -6,6 +6,8 @@ how to creat markdown
 #### 4 level heading
 ##### 5 level heading
 # Bold
-** we use Asteric 
+** we use Asteric** 
      we use Asteric 
 
+#Italic
+* this is italic*
