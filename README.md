@@ -11,3 +11,17 @@ how to creat markdown
 
 # Italic
 *this is italic*
+# list 
+- number 1
+- number 2
+- number 3
+  
+* number 1
+* number 2
+* number 3
+* number 4
+
++ number 1
++ number 2
++ number 3
++ number 4
